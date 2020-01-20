@@ -28,6 +28,11 @@ app.get('/home',(req,res)=>
     res.render('home')
 });
 
+app.get('/aboutus',(req,res)=>
+{
+    res.render('aboutus')
+});
+
 app.get('/footer',(req,res)=>
 {
     res.render('footer')
