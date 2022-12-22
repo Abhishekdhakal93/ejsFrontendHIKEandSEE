@@ -14,7 +14,7 @@
     "bootstrap": "^4.4.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.8.9",
     "nodemon": "^2.0.2",
     "npm-git-install": "^0.3.0"
